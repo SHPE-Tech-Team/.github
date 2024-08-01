@@ -6,7 +6,7 @@ We are SHPE's technical team and we consist of three teams:
  - Engineering Open House (EOH) 
 
 ## Engineering Open House
- ## &nbsp; Our Leads
-  | Carlos Paredes| Hugo Ribeiro |
+ ## &nbsp; Praise Our Glorious Leaders🙏
+  | Antonio Tapia | Juan Fragoso |
   | :----: | :----:  |           
   |        |         |           
