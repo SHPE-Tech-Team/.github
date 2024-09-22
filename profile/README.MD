@@ -16,10 +16,9 @@
 </div>
 
 <h3 align = "center"> SHPE|UIUC </h2>
-The Society of Hispanic Professional Engineers is a National organization with a main purpose to empower **Hisanics and Latinos** across the United States studying Science, Technology, **Engineering**, or Mathematics. We are UIUC's chapter, focused on providing our members with professional, academic, and personal assistance with workshops, career fairs, mentors, and more! 
-
+The Society of Hispanic Professional Engineers is a National organization with a main purpose to empower **Hisanics and Latinos** across the United States studying Science, Technology, **Engineering**, or Mathematics. 
+We are UIUC's chapter, focused on providing our members with professional, academic, and personal assistance with workshops, career fairs, mentors, and more! 
 Learn more about our organization [here](https://students.grainger.illinois.edu/shpe/home/)! 
-
 To get involved, join our [Slack community here](https://join.slack.com/t/shpe-uiuc/shared_invite/zt-2dg63mxaa-5uZB58i6PmPgnbJsJzXL7w)!
 
 <h3 align = "center"> Tech Team </h3>
