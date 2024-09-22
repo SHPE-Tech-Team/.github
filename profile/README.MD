@@ -14,8 +14,11 @@
 <div align="center">
 <img src=https://shpe.soe.ucsc.edu/sites/default/files/SHPE_logo_FullColor-RGB-2x.png>
 </div>
+
+#### Society of Hispanic Profesional Engineers
 The Society of Hispanic Professional Engineers is a National organization with a main purpose to empower **Hisanics and Latinos** across the United States studying Science, Technology, **Engineering**, or Mathematics. We are UIUC's chapter, focused on providing our members with professional, academic, and personal assistance with workshops, career fairs, mentors, and more! Learn more about our organization [here](https://students.grainger.illinois.edu/shpe/home/)! To get involved, join our [Slack community here](https://join.slack.com/t/shpe-uiuc/shared_invite/zt-2dg63mxaa-5uZB58i6PmPgnbJsJzXL7w)!
-##### Technical Team
+
+#### Technical Team
 SHPE's Technical Team is dedicated to providing members with valuable experience of working on technical projects outside of their coursework, allowing members an opportunity to apply the skills they learn in a way that stands out to employers and most importantly ourselves. Tech Team works on robotics, cadding, and programming related projects to develop a wide variety of skillsets within our members. Feel free to message our technical chair Erick Ayala on Slack or through email at [shpe.uiuc.technicalchair@gmail.com](shpe.uiuc.technicalchair@gmail.com).
 
 <div align="center">
