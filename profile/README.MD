@@ -1,12 +1,44 @@
-<h1 align = "center"> Welcome to SHPE Tech Team! &#129395  </h2>
+<h1 align = "center"> ⚙Welcome to SHPE|UIUC Tech Team⚙ </h2>
 
- <h2 align = "center"> <em> <u>Who We Are</u></em> </h2>
- 
-We are SHPE's technical team and we consist of three teams:
- - Engineering Open House (EOH) 
+## Praise Our Glorious Leader👑
+| Erick Ayala |
+| :----: |
+| Junior |
+| Mechanical Engineering |
+### Erick Ayala is SHPE|UIUC's Technical Chair for the 24-25 Academic Year!!🙌
+
+---
+
+## Society of Hispanic Professional Engineers
+<div align="center">
+<img src=https://cdn.uconnectlabs.com/wp-content/uploads/sites/7/2020/07/SHPE_logo_FullColor-RGB-2x-840x311.png?v=99668>
+</div>
+The Society of Hispanic Professional Engineers is a National organization with a main purpose to empower **Hisanics and Latinos** across the United States studying Science, Technology, **Engineering**, or Mathematics. We are UIUC's chapter, focused on providing our members with professional, academic, and personal assistance with workshops, career fairs, mentors, and more! Learn more about our organization [here](https://students.grainger.illinois.edu/shpe/home/)! To get involved, join our [Slack community here](https://join.slack.com/t/shpe-uiuc/shared_invite/zt-2dg63mxaa-5uZB58i6PmPgnbJsJzXL7w)!
+
+SHPE's Technical Team is dedicated to providing members with valuable experience of working on technical projects outside of their coursework, allowing members an opportunity to apply the skills they learn in a way that stands out to employers and most importantly ourselves. Tech Team works on robotics, cadding, and programming related projects to develop a wide variety of skillsets within our members. Feel free to message our technical chair Erick Ayala on Slack or through email at [shpe.uiuc.technicalchair@gmail.com](shpe.uiuc.technicalchair@gmail.com).
+
+<div align="center">
+ <img src=https://students.grainger.illinois.edu/upload/engr/2024/web_upload_5016453has_824175921_crop.jpg>
+ Tech Team meets every **Sunday, 2-4pm @ ECE OpenLab**!
+ <sub>Follow the guide on [this page](https://openlab.ece.illinois.edu/apply.html) to get access to the ECE OpenLab to be able to attend meetings!</sub>
+</div>
+
+ ---
 
 ## Engineering Open House
- ## &nbsp; Praise Our Glorious Leaders🙏
-  | Antonio Tapia | Juan Fragoso |
-  | :----: | :----:  |           
-  |        |         |           
+ ### &nbsp; THE EOH GOATS🐐🐐
+  &nbsp; | Antonio Tapia | Juan Fragoso |
+  &nbsp; | :----: | :----:  |           
+  &nbsp; | Sophomore | Junior |
+  &nbsp; | Computer Science | Mechanical Engineering |
+This year, EOH Team will be focusing on two main projects alongside being willing to sponsor your personal projects to showcase in April at UIUC's annual Engineering Open House as well as other Grainger RSO showcase events! Our current plan for the 24-25 academic year is to showcase an improved **ASL Robotic Hand**🤖✋ model in November's Robot Day and our **AI Lotería**🤖💃 at Engineering Open House in April. We are also willing to participate in other events and showcase our brilliant work as much as we can!
+
+---
+
+## Robotics
+ ### &nbsp; Robotics Mafia🤵🤵
+  &nbsp; | Brando Saurez | Jasmine Plata |
+  &nbsp; | :----: | :----: |
+  &nbsp; | Junior | Junior |
+  &nbsp; | Systems Engineering & Design | Industrial Engineering |
+This year, the Robotics Team will be trying something new alongside doing what has previously been done in Tech Team. Robotics will continue competing in VEX competitions, with this year's goal being a fully functional **VEX V5 Robot🤖🚗** that can climb, lift, and move. Our plan is to 3D print all parts and compete in the annual Illini Cornfield Clash! Another goal of ours is to compete in EOH's RoboBrawl and create our very own **1lb BattleBot🤖🤜** to take down robots from other RSOs on campus!
