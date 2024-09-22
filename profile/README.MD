@@ -22,9 +22,12 @@ The Society of Hispanic Professional Engineers is a National organization with a
 SHPE's Technical Team is dedicated to providing members with valuable experience of working on technical projects outside of their coursework, allowing members an opportunity to apply the skills they learn in a way that stands out to employers and most importantly ourselves. Tech Team works on robotics, cadding, and programming related projects to develop a wide variety of skillsets within our members. Feel free to message our technical chair Erick Ayala on Slack or through email at [shpe.uiuc.technicalchair@gmail.com](shpe.uiuc.technicalchair@gmail.com).
 
 <div align="center">
- <img src=https://students.grainger.illinois.edu/upload/engr/2024/web_upload_5016453has_824175921_crop.jpg>
+ <img src=https://media.licdn.com/dms/image/D5622AQGQCMtZTuv8RA/feedshare-shrink_800/0/1680520894557?e=2147483647&v=beta&t=BGT2WWyXfU4zspvqrbS6XbmiA_tCWU_bbpyzMtV5n0k>
+
  Tech Team meets every **Sunday, 2-4pm @ ECE OpenLab**!
+
  <sub>Follow the guide on [this page](https://openlab.ece.illinois.edu/apply.html) to get access to the ECE OpenLab to be able to attend meetings!</sub>
+
 </div>
 
  ---
