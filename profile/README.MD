@@ -1,13 +1,13 @@
 <h1 align = "center"> ⚙Welcome to SHPE|UIUC Tech Team⚙ </h2>
 
-<div align = "center">
+
 ## Praise Our Glorious Leader👑
 | Erick Ayala |
 | :----: |
 | Junior |
 | Mechanical Engineering |
 ### Erick Ayala is SHPE|UIUC's Technical Chair for the 24-25 Academic Year!!🙌
-</div>
+
 ---
 
 ## Society of Hispanic Professional Engineers
@@ -28,18 +28,22 @@ SHPE's Technical Team is dedicated to providing members with valuable experience
 
 ## Engineering Open House
 ### THE EOH GOATS🐐🐐
+<div>
 | Antonio Tapia | Juan Fragoso |
 | :----: | :----:  |           
 | Sophomore | Junior |
 | Computer Science | Mechanical Engineering |
+</div>
 This year, EOH Team will be focusing on two main projects alongside being willing to sponsor your personal projects to showcase in April at UIUC's annual Engineering Open House as well as other Grainger RSO showcase events! Our current plan for the 24-25 academic year is to showcase an improved **ASL Robotic Hand**🤖✋ model in November's Robot Day and our **AI Lotería**🤖💃 at Engineering Open House in April. We are also willing to participate in other events and showcase our brilliant work as much as we can!
 
 ---
 
 ## Robotics
 ### Robotics Mafia🤵🤵
+<div>
 | Brando Saurez | Jasmine Plata |
 | :----: | :----: |
 | Junior | Junior |
 | Systems Engineering & Design | Industrial Engineering |
+</div>
 This year, the Robotics Team will be trying something new alongside doing what has previously been done in Tech Team. Robotics will continue competing in VEX competitions, with this year's goal being a fully functional **VEX V5 Robot🤖🚗** that can climb, lift, and move. Our plan is to 3D print all parts and compete in the annual Illini Cornfield Clash! Another goal of ours is to compete in EOH's RoboBrawl and create our very own **1lb BattleBot🤖🤜** to take down robots from other RSOs on campus!
