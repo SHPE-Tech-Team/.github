@@ -2,11 +2,11 @@
 
 
 ## Praise Our Glorious Leader👑
-| Juan Fraguoso |
+| Juan Fragoso |
 | :----: |
 | Senior |
 | Mechanical Engineering |
-### Juan Fraguoso is SHPE|UIUC's Technical Chair for the 25-26 Academic Year!!🙌
+### Juan Fragoso is SHPE|UIUC's Technical Chair for the 25-26 Academic Year!!🙌
 
 ---
 
@@ -43,9 +43,9 @@ Feel free to message our technical chair Erick Ayala on Slack or through email a
 ## Engineering Open House
 ### THE EOH GOATS🐐🐐
 
-| Antonio Tapia | Juan Fragoso |
+| Kevin Cruz | Juan Fragoso |
 | :----: | :----:  |           
-| Sophomore | Junior |
+| Graduate | Senior |
 | Computer Science | Mechanical Engineering |
 
 #### EOH Overview
