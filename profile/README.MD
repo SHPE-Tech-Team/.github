@@ -2,11 +2,11 @@
 
 
 ## Praise Our Glorious Leader👑
-| Erick Ayala |
+| Juan Fraguoso |
 | :----: |
-| Junior |
+| Senior |
 | Mechanical Engineering |
-### Erick Ayala is SHPE|UIUC's Technical Chair for the 24-25 Academic Year!!🙌
+### Juan Fraguoso is SHPE|UIUC's Technical Chair for the 25-26 Academic Year!!🙌
 
 ---
 
